@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "__split_buffer": "c",
+        "array": "c",
+        "vector": "c",
+        "wait.h": "c"
+    }
+}

@@ -1,0 +1,404 @@
+INFO: setting client port as: 8080
+INFO: Initiating connection...
+Prepping REQ 0
+Got response for 0
+Seding REQ 0
+Prepping REQ 1
+Got response for 1
+Seding REQ 1
+Prepping REQ 2
+Got response for 2
+Seding REQ 2
+Prepping REQ 3
+Seding REQ 3
+Prepping REQ 4
+Seding REQ 4
+Prepping REQ 5
+Got response for 3
+Seding REQ 5
+Prepping REQ 6
+Seding REQ 6
+Prepping REQ 7
+Got response for 4
+Got response for 5
+Got response for 6
+Seding REQ 7
+Prepping REQ 8
+Got response for 7
+Seding REQ 8
+Prepping REQ 9
+Seding REQ 9
+Prepping REQ 10
+Seding REQ 10
+Prepping REQ 11
+Seding REQ 11
+Prepping REQ 12
+Seding REQ 12
+Prepping REQ 13
+Got response for 8
+Seding REQ 13
+Prepping REQ 14
+Got response for 9
+Got response for 10
+Got response for 11
+Got response for 12
+Got response for 13
+Got response for 14
+Seding REQ 14
+Prepping REQ 15
+Seding REQ 15
+Prepping REQ 16
+Got response for 15
+Seding REQ 16
+Prepping REQ 17
+Got response for 16
+Got response for 17
+Seding REQ 17
+Prepping REQ 18
+Seding REQ 18
+Prepping REQ 19
+Seding REQ 19
+Prepping REQ 20
+Seding REQ 20
+Prepping REQ 21
+Seding REQ 21
+Prepping REQ 22
+Seding REQ 22
+Prepping REQ 23
+Got response for 18
+Got response for 19
+Seding REQ 23
+Prepping REQ 24
+Seding REQ 24
+Prepping REQ 25
+Seding REQ 25
+Prepping REQ 26
+Seding REQ 26
+Prepping REQ 27
+Got response for 20
+Got response for 21
+Seding REQ 27
+Prepping REQ 28
+Seding REQ 28
+Prepping REQ 29
+Got response for 22
+Seding REQ 29
+Prepping REQ 30
+Seding REQ 30
+Prepping REQ 31
+Got response for 23
+Seding REQ 31
+Prepping REQ 32
+Seding REQ 32
+Prepping REQ 33
+Seding REQ 33
+Prepping REQ 34
+Got response for 24
+Seding REQ 34
+Prepping REQ 35
+Got response for 25
+Seding REQ 35
+Prepping REQ 36
+Got response for 26
+Got response for 27
+Got response for 28
+Seding REQ 36
+Prepping REQ 37
+Got response for 29
+Seding REQ 37
+Prepping REQ 38
+Got response for 30
+Seding REQ 38
+Prepping REQ 39
+Seding REQ 39
+Prepping REQ 40
+Got response for 31
+Seding REQ 40
+Prepping REQ 41
+Got response for 32
+Seding REQ 41
+Prepping REQ 42
+Got response for 33
+Got response for 34
+Got response for 35
+Seding REQ 42
+Prepping REQ 43
+Seding REQ 43
+Prepping REQ 44
+Seding REQ 44
+Prepping REQ 45
+Got response for 36
+Got response for 37
+Seding REQ 45
+Prepping REQ 46
+Got response for 38
+Got response for 39
+Got response for 40
+Seding REQ 46
+Prepping REQ 47
+Seding REQ 47
+Prepping REQ 48
+Seding REQ 48
+Prepping REQ 49
+Got response for 41
+Got response for 42
+Seding REQ 49
+Prepping REQ 50
+Seding REQ 50
+Prepping REQ 51
+Got response for 43
+Got response for 44
+Got response for 45
+Seding REQ 51
+Prepping REQ 52
+Seding REQ 52
+Prepping REQ 53
+Seding REQ 53
+Prepping REQ 54
+Got response for 46
+Seding REQ 54
+Prepping REQ 55
+Got response for 47
+Seding REQ 55
+Prepping REQ 56
+Seding REQ 56
+Prepping REQ 57
+Seding REQ 57
+Prepping REQ 58
+Got response for 48
+Seding REQ 58
+Prepping REQ 59
+Seding REQ 59
+Prepping REQ 60
+Seding REQ 60
+Prepping REQ 61
+Seding REQ 61
+Prepping REQ 62
+Got response for 49
+Got response for 50
+Got response for 51
+Seding REQ 62
+Prepping REQ 63
+Got response for 52
+Got response for 53
+Seding REQ 63
+Prepping REQ 64
+Got response for 54
+Got response for 55
+Got response for 56
+Got response for 57
+Got response for 58
+Seding REQ 64
+Prepping REQ 65
+Seding REQ 65
+Prepping REQ 66
+Seding REQ 66
+Prepping REQ 67
+Seding REQ 67
+Prepping REQ 68
+Seding REQ 68
+Prepping REQ 69
+Seding REQ 69
+Prepping REQ 70
+Seding REQ 70
+Prepping REQ 71
+Seding REQ 71
+Prepping REQ 72
+Got response for 59
+Seding REQ 72
+Prepping REQ 73
+Got response for 60
+Got response for 61
+Seding REQ 73
+Prepping REQ 74
+Seding REQ 74
+Prepping REQ 75
+Got response for 62
+Seding REQ 75
+Prepping REQ 76
+Seding REQ 76
+Prepping REQ 77
+Got response for 63
+Got response for 64
+Seding REQ 77
+Prepping REQ 78
+Got response for 65
+Seding REQ 78
+Prepping REQ 79
+Got response for 66
+Seding REQ 79
+Prepping REQ 80
+Got response for 67
+Seding REQ 80
+Prepping REQ 81
+Seding REQ 81
+Prepping REQ 82
+Got response for 68
+Got response for 69
+Got response for 70
+Got response for 71
+Got response for 72
+Got response for 73
+Got response for 74
+Got response for 75
+Got response for 76
+Got response for 77
+Got response for 78
+Seding REQ 82
+Prepping REQ 83
+Got response for 79
+Got response for 80
+Got response for 81
+Got response for 82
+Got response for 83
+Seding REQ 83
+Prepping REQ 84
+Got response for 84
+Seding REQ 84
+Prepping REQ 85
+Got response for 85
+Seding REQ 85
+Prepping REQ 86
+Seding REQ 86
+Prepping REQ 87
+Seding REQ 87
+Prepping REQ 88
+Seding REQ 88
+Prepping REQ 89
+Got response for 86
+Got response for 87
+Got response for 88
+Seding REQ 89
+Prepping REQ 90
+Seding REQ 90
+Prepping REQ 91
+Got response for 89
+Got response for 90
+Seding REQ 91
+Prepping REQ 92
+Got response for 91
+Got response for 92
+Seding REQ 92
+Prepping REQ 93
+Seding REQ 93
+Prepping REQ 94
+Seding REQ 94
+Prepping REQ 95
+Got response for 93
+Seding REQ 95
+Prepping REQ 96
+Seding REQ 96
+Prepping REQ 97
+Seding REQ 97
+Prepping REQ 98
+Seding REQ 98
+Prepping REQ 99
+Got response for 94
+Got response for 95
+Seding REQ 99
+Got response for 96
+Got response for 97
+Got response for 98
+Got response for 99
+==== REPORT ====
+R[0]: Sent: 59348.303891117 	 Recv: 59348.345980992 	 Exp: 59348.345683399
+R[1]: Sent: 59348.487426659 	 Recv: 59348.620980617 	 Exp: 59348.620899020
+R[2]: Sent: 59348.640331659 	 Recv: 59348.658752117 	 Exp: 59348.658672278
+R[3]: Sent: 59348.883033826 	 Recv: 59349.4928826 	 Exp: 59349.4867828
+R[4]: Sent: 59348.923897076 	 Recv: 59349.72341367 	 Exp: 59349.72209573
+R[5]: Sent: 59348.956451951 	 Recv: 59349.154971242 	 Exp: 59349.154941814
+R[6]: Sent: 59349.21355451 	 Recv: 59349.215046909 	 Exp: 59349.214997468
+R[7]: Sent: 59349.66748659 	 Recv: 59349.421693534 	 Exp: 59349.421652193
+R[8]: Sent: 59349.370912409 	 Recv: 59349.527009951 	 Exp: 59349.526973380
+R[9]: Sent: 59349.471911284 	 Recv: 59349.604870868 	 Exp: 59349.604832157
+R[10]: Sent: 59349.487284868 	 Recv: 59349.646022618 	 Exp: 59349.628057739
+R[11]: Sent: 59349.488938993 	 Recv: 59349.764030784 	 Exp: 59349.781901187
+R[12]: Sent: 59349.503710159 	 Recv: 59349.806769243 	 Exp: 59349.806730855
+R[13]: Sent: 59349.520764284 	 Recv: 59349.816384368 	 Exp: 59349.816368933
+R[14]: Sent: 59349.534677743 	 Recv: 59349.836925284 	 Exp: 59349.836903460
+R[15]: Sent: 59350.218245243 	 Recv: 59350.370567785 	 Exp: 59350.370499265
+R[16]: Sent: 59350.290219660 	 Recv: 59350.399890576 	 Exp: 59350.399819604
+R[17]: Sent: 59350.385081993 	 Recv: 59350.461847535 	 Exp: 59350.461802321
+R[18]: Sent: 59350.486591035 	 Recv: 59350.786943660 	 Exp: 59350.786892742
+R[19]: Sent: 59350.554662326 	 Recv: 59350.910014285 	 Exp: 59350.909910034
+R[20]: Sent: 59350.589288701 	 Recv: 59351.32497285 	 Exp: 59351.32456069
+R[21]: Sent: 59350.664118285 	 Recv: 59351.217668077 	 Exp: 59351.217603667
+R[22]: Sent: 59350.715255702 	 Recv: 59351.253932118 	 Exp: 59351.253882423
+R[23]: Sent: 59350.748595077 	 Recv: 59351.463444410 	 Exp: 59351.463401536
+R[24]: Sent: 59350.913505035 	 Recv: 59351.712029827 	 Exp: 59351.711974705
+R[25]: Sent: 59350.920743785 	 Recv: 59351.719568369 	 Exp: 59351.719528644
+R[26]: Sent: 59350.995403660 	 Recv: 59351.810297035 	 Exp: 59351.810263864
+R[27]: Sent: 59351.16765910 	 Recv: 59351.846097494 	 Exp: 59351.846053800
+R[28]: Sent: 59351.237722577 	 Recv: 59351.847812827 	 Exp: 59351.847783012
+R[29]: Sent: 59351.244377202 	 Recv: 59351.853274869 	 Exp: 59351.853244017
+R[30]: Sent: 59351.305582035 	 Recv: 59352.147302911 	 Exp: 59352.147268387
+R[31]: Sent: 59351.332820285 	 Recv: 59352.305964286 	 Exp: 59352.305908808
+R[32]: Sent: 59351.565332327 	 Recv: 59352.370653994 	 Exp: 59352.370631613
+R[33]: Sent: 59351.596375327 	 Recv: 59352.489689452 	 Exp: 59352.489666768
+R[34]: Sent: 59351.643421452 	 Recv: 59352.581525077 	 Exp: 59352.581505169
+R[35]: Sent: 59351.715289994 	 Recv: 59352.584883411 	 Exp: 59352.584864463
+R[36]: Sent: 59351.791154119 	 Recv: 59352.808730494 	 Exp: 59352.808702149
+R[37]: Sent: 59351.848728910 	 Recv: 59352.915123828 	 Exp: 59352.915094885
+R[38]: Sent: 59352.115836619 	 Recv: 59353.26942661 	 Exp: 59353.26911513
+R[39]: Sent: 59352.149306202 	 Recv: 59353.63397578 	 Exp: 59353.63361922
+R[40]: Sent: 59352.251478744 	 Recv: 59353.78549036 	 Exp: 59353.78521819
+R[41]: Sent: 59352.367922119 	 Recv: 59353.255316078 	 Exp: 59353.255289927
+R[42]: Sent: 59352.425937286 	 Recv: 59353.296016828 	 Exp: 59353.288731150
+R[43]: Sent: 59352.602671702 	 Recv: 59353.475324119 	 Exp: 59353.482551246
+R[44]: Sent: 59352.628682702 	 Recv: 59353.572067870 	 Exp: 59353.572032288
+R[45]: Sent: 59352.671823827 	 Recv: 59353.646127286 	 Exp: 59353.646091774
+R[46]: Sent: 59352.985263661 	 Recv: 59353.809217495 	 Exp: 59353.809185824
+R[47]: Sent: 59353.92371328 	 Recv: 59354.23973203 	 Exp: 59354.23936203
+R[48]: Sent: 59353.150286786 	 Recv: 59354.164518703 	 Exp: 59354.164484888
+R[49]: Sent: 59353.201122994 	 Recv: 59354.366135453 	 Exp: 59354.366085761
+R[50]: Sent: 59353.316406703 	 Recv: 59354.386447120 	 Exp: 59354.386395704
+R[51]: Sent: 59353.382290703 	 Recv: 59354.597128495 	 Exp: 59354.597058211
+R[52]: Sent: 59353.682388745 	 Recv: 59354.774613203 	 Exp: 59354.774558024
+R[53]: Sent: 59353.698374828 	 Recv: 59354.821789703 	 Exp: 59354.821742524
+R[54]: Sent: 59353.800861953 	 Recv: 59354.849319870 	 Exp: 59354.849287749
+R[55]: Sent: 59353.897535536 	 Recv: 59354.890024412 	 Exp: 59354.879935387
+R[56]: Sent: 59354.51740661 	 Recv: 59354.901346120 	 Exp: 59354.911384509
+R[57]: Sent: 59354.111013953 	 Recv: 59354.928322245 	 Exp: 59354.928286792
+R[58]: Sent: 59354.131797786 	 Recv: 59354.973261620 	 Exp: 59354.973214996
+R[59]: Sent: 59354.213106786 	 Recv: 59355.171050953 	 Exp: 59355.171015767
+R[60]: Sent: 59354.231714203 	 Recv: 59355.186553703 	 Exp: 59355.182281045
+R[61]: Sent: 59354.242617703 	 Recv: 59355.301438703 	 Exp: 59355.305645239
+R[62]: Sent: 59354.311042745 	 Recv: 59355.529305203 	 Exp: 59355.529224481
+R[63]: Sent: 59354.729398703 	 Recv: 59355.569601620 	 Exp: 59355.569571164
+R[64]: Sent: 59354.844768912 	 Recv: 59355.607973704 	 Exp: 59355.607927982
+R[65]: Sent: 59354.983323537 	 Recv: 59355.638626954 	 Exp: 59355.629999216
+R[66]: Sent: 59355.18174578 	 Recv: 59355.653416495 	 Exp: 59355.661981953
+R[67]: Sent: 59355.106023912 	 Recv: 59355.763224704 	 Exp: 59355.763193379
+R[68]: Sent: 59355.122609703 	 Recv: 59355.894711495 	 Exp: 59355.894667327
+R[69]: Sent: 59355.136041787 	 Recv: 59356.8665162 	 Exp: 59356.8609139
+R[70]: Sent: 59355.153976537 	 Recv: 59356.258534662 	 Exp: 59356.258483084
+R[71]: Sent: 59355.161734578 	 Recv: 59356.319984787 	 Exp: 59356.319970623
+R[72]: Sent: 59355.167139495 	 Recv: 59356.342914412 	 Exp: 59356.342861363
+R[73]: Sent: 59355.186538203 	 Recv: 59356.452913162 	 Exp: 59356.452848838
+R[74]: Sent: 59355.346407995 	 Recv: 59356.738287621 	 Exp: 59356.738213214
+R[75]: Sent: 59355.453304995 	 Recv: 59356.857191787 	 Exp: 59356.857121966
+R[76]: Sent: 59355.555333037 	 Recv: 59356.869288746 	 Exp: 59356.869267866
+R[77]: Sent: 59355.565160662 	 Recv: 59356.876096704 	 Exp: 59356.876077234
+R[78]: Sent: 59355.638614079 	 Recv: 59356.895893704 	 Exp: 59356.895178321
+R[79]: Sent: 59355.645874120 	 Recv: 59357.38679246 	 Exp: 59357.38644299
+R[80]: Sent: 59355.707764120 	 Recv: 59357.156146496 	 Exp: 59357.156085132
+R[81]: Sent: 59355.792945579 	 Recv: 59357.170504288 	 Exp: 59357.170458681
+R[82]: Sent: 59355.798287495 	 Recv: 59357.189593996 	 Exp: 59357.189551705
+R[83]: Sent: 59356.994223413 	 Recv: 59357.200785704 	 Exp: 59357.200766240
+R[84]: Sent: 59357.214951496 	 Recv: 59357.219623204 	 Exp: 59357.219582627
+R[85]: Sent: 59357.826872705 	 Recv: 59357.833198580 	 Exp: 59357.833129198
+R[86]: Sent: 59358.31354663 	 Recv: 59358.245199246 	 Exp: 59358.245091997
+R[87]: Sent: 59358.31817205 	 Recv: 59358.261848371 	 Exp: 59358.261774664
+R[88]: Sent: 59358.121946830 	 Recv: 59358.303341496 	 Exp: 59358.303270957
+R[89]: Sent: 59358.139785121 	 Recv: 59358.446150247 	 Exp: 59358.446100351
+R[90]: Sent: 59358.384044497 	 Recv: 59358.513215788 	 Exp: 59358.513154019
+R[91]: Sent: 59358.428571872 	 Recv: 59358.563498830 	 Exp: 59358.563426734
+R[92]: Sent: 59358.515206413 	 Recv: 59358.609056455 	 Exp: 59358.572245552
+R[93]: Sent: 59358.631510163 	 Recv: 59358.749573247 	 Exp: 59358.749502142
+R[94]: Sent: 59358.707235788 	 Recv: 59359.154405372 	 Exp: 59359.154347173
+R[95]: Sent: 59358.743546122 	 Recv: 59359.329567164 	 Exp: 59359.329453162
+R[96]: Sent: 59358.829608205 	 Recv: 59359.412250872 	 Exp: 59359.412176370
+R[97]: Sent: 59358.967407997 	 Recv: 59359.527132039 	 Exp: 59359.527046223
+R[98]: Sent: 59358.971062872 	 Recv: 59359.743477872 	 Exp: 59359.743407080
+R[99]: Sent: 59359.150221539 	 Recv: 59359.891723414 	 Exp: 59359.891651098
+DONE!
