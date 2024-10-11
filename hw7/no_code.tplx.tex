@@ -1,0 +1,30 @@
+%% This is a template file to exclude code cells from a Jupyter notebook when converting to PDF.
+
+% Extend the article template which is the default one for PDFs.
+\documentclass[11pt]{article}
+\usepackage{graphicx}
+\usepackage{adjustbox}  % Used to constrain images to a maximum size 
+\usepackage{grffile}    % Allow for non-ASCII characters in image paths
+\usepackage[utf8x]{inputenc} % Use UTF-8 encoding
+\usepackage{longtable}  % Multi-page tables
+\usepackage{booktabs}   % Nicer tables
+\usepackage{geometry}   % Allow for wider pages
+
+% Exclude code cells
+\usepackage{etoolbox}
+\makeatletter
+\newif\ifcode
+\codefalse
+\preto{\@verbatim}{\ifcode\else\expandafter\@gobble\fi}
+\define@key{FV}{showcode}[true]{\ifstrequal{#1}{true}{\codetrue}{\codefalse}}
+\makeatother
+
+% Execute necessary Jupyter commands
+((*- extends 'article.tplx' -*))
+
+% Remove input cells (code cells)
+((* block input_group -*))
+  ((*- if cell.metadata.get('nbconvert', {}).get('show_code', False) -*)) 
+    ((( super() )))
+  ((*- endif -*))
+((* endblock input_group -*))
